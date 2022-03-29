@@ -14,3 +14,5 @@ retorna a letra do alfabeto cuja o decimal passado como parâmetro representa na
 
 * `from convert_ascii import convert`
 - Faça uma variável receber uma das funções supracitadas acima passando uma letra ou número em str.
+- **Exemplo:
+- valor = convert.escolhe_a_função('parametro')
